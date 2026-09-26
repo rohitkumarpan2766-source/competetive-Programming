@@ -6,9 +6,9 @@ Organized collection of Competitive Programming Lab programs, structured topic-w
 
 | Field       | Details                            |
 |-------------|-------------------------------------|
-| Name        | Krishnendu Das                |
-| Roll No     | UG/SOET/30/24/448                  |
-| Reg No      | AU/2024/0001973                    |
+| Name        | Rohit Kumar Pandey               |
+| Roll No     | UG/SOET/30/24/456                  |
+| Reg No      | AU/2024/0001968                  |
 | Section     | D                                   |
 | Subject     | Competitive Programming Lab Programs |
 
