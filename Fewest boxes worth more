@@ -1,0 +1,7 @@
+def fewest_boxes(c):
+    total, mine, k = sum(c), 0, 0
+    for x in sorted(c, reverse=True):
+        mine += x
+        k += 1
+        if mine > total - mine:
+            return k
