@@ -1,0 +1,5 @@
+def window_max(nums, k):
+    ans = []
+    for i in range(len(nums) - k + 1):
+        ans.append(max(nums[i:i+k]))
+    return ans
